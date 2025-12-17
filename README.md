@@ -1,4 +1,4 @@
-👋 Hi, ich bin [Dein Name]
+👋 Hi, ich bin Julia
 
 💻 Angehender Fullstack Developer | 🎓 Ausbildung bei der Developer Akademie
 
