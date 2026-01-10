@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Angehender Fullstack Developer <br> <br>🚀 Ich befinde mich aktuell in der Ausbildung bei der Developer Akademie mit dem klaren Ziel, Fullstack Developer zu werden. Ich liebe es, sauberen, gut strukturierten Code zu schreiben und aus Ideen schöne, funktionale Webseiten und Programme zu entwickeln.<br></p>
+<p align="left">💻 Angehender Developer <br> <br>🚀 Ich befinde mich aktuell in der Weiterbildung bei der Developer Akademie mit dem klaren Ziel, Fullstack Developer zu werden. Ich liebe es, sauberen, gut strukturierten Code zu schreiben und aus Ideen schöne, funktionale Webseiten und Programme zu entwickeln.<br></p>
 
 ###
 
