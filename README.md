@@ -4,57 +4,30 @@
 
 ### Full-Stack Developer
 
-Building modern web applications with a focus on
-**clean architecture, maintainable code and intuitive user experiences.**
+**Angular & TypeScript · Python & Django REST Framework**
 
-<br>
+I build user-focused web applications and maintainable APIs — from responsive interfaces to authentication, data processing and backend architecture.
 
-<a href="https://github.com/JuliaKeller13">
-  <img src="https://img.shields.io/badge/GitHub-JuliaKeller13-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
-
-<br>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
-
-<br><br>
-
-### Backend & Database
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-
-<br><br>
-
-### Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+<p>
+  <a href="https://juliakeller-dev.de/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-23566A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
+  </a>
+  <a href="mailto:juliakeller.vk@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email%20Me-333B46?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
+  </a>
+</p>
 
 </div>
 
-<br>
-
 ---
+
+## About Me
+
+I'm a full-stack developer working with **Angular and TypeScript** on the frontend and **Python, Django and Django REST Framework** on the backend.
+
+I enjoy turning requirements into structured, reliable applications, with particular attention to **clean architecture, API design, authentication, testing and intuitive user experiences**.
+
+My recent backend work includes video streaming, AI-assisted quiz generation, marketplace workflows and collaborative task management.
 
 ## Featured Projects
 
@@ -62,190 +35,114 @@ Building modern web applications with a focus on
 <tr>
 <td width="50%" valign="top">
 
-### DABubble
-
-Real-time team chat application with authentication, channels, direct messages and realtime communication.
-
-**Stack**
-
-`Angular` `TypeScript` `SCSS`
-`Supabase` `PostgreSQL`
-
-<br>
-
-<a href="https://github.com/JuliaKeller13/DABubble">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository">
-</a>
+<h3><a href="https://github.com/JuliaKeller13/videoflix_backend">Videoflix</a> · Backend</h3>
+<p>Video-streaming backend with secure authentication, automated video processing, thumbnails and adaptive HLS playback.</p>
+<p><strong>Highlights:</strong> JWT cookies, email verification, background jobs, HLS in multiple resolutions.</p>
+<p><strong>Stack:</strong> Python · Django REST Framework · PostgreSQL · Redis · RQ · FFmpeg · Docker</p>
+<p><a href="https://github.com/JuliaKeller13/videoflix_backend"><strong>Explore backend →</strong></a></p>
 
 </td>
-
 <td width="50%" valign="top">
 
-### Join
-
-Kanban-based task management application for organizing tasks, contacts and workflows.
-
-**Stack**
-
-`Angular` `TypeScript` `SCSS`
-`Supabase`
-
-<br>
-
-<a href="https://github.com/JuliaKeller13/Join">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository">
-</a>
+<h3><a href="https://github.com/JuliaKeller13/quizly-backend">Quizly</a> · Backend</h3>
+<p>Backend that turns YouTube video content into AI-generated quizzes through an automated processing pipeline.</p>
+<p><strong>Highlights:</strong> Audio extraction, local transcription, AI quiz generation and response validation.</p>
+<p><strong>Stack:</strong> Python · Django REST Framework · Whisper · Gemini · yt-dlp · FFmpeg</p>
+<p><a href="https://github.com/JuliaKeller13/quizly-backend"><strong>Explore backend →</strong></a></p>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### Kanmind Backend
-
-REST API backend for a Kanban application with structured endpoints and data handling.
-
-**Stack**
-
-`Python` `Django`
-`Django REST Framework`
-
-<br>
-
-<a href="https://github.com/JuliaKeller13/Kanmind_backend">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository">
-</a>
+<h3><a href="https://github.com/JuliaKeller13/coderr_backend">Coderr</a> · Backend</h3>
+<p>REST API for a service marketplace connecting customers and business users.</p>
+<p><strong>Highlights:</strong> User profiles, service offers, ordering workflows, reviews and statistics.</p>
+<p><strong>Stack:</strong> Python · Django · Django REST Framework · Token Authentication</p>
+<p><a href="https://github.com/JuliaKeller13/coderr_backend"><strong>Explore backend →</strong></a></p>
 
 </td>
-
 <td width="50%" valign="top">
 
-### Portfolio
+<h3><a href="https://github.com/JuliaKeller13/DABubble">DABubble</a> · Frontend</h3>
+<p>Team messaging application featuring channels, direct messages and real-time communication.</p>
+<p><strong>Stack:</strong> Angular · TypeScript · SCSS · Supabase · PostgreSQL</p>
+<p>
+<a href="https://dabubble.juliakeller-dev.de/">Live demo</a> ·
+<a href="https://github.com/JuliaKeller13/DABubble">Source code</a>
+</p>
 
-Personal developer portfolio built as a modern Angular application.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Stack**
+<h3><a href="https://github.com/JuliaKeller13/Join">Join</a> · Frontend</h3>
+<p>Kanban-style task-management application with boards, drag-and-drop tasks and collaborative workflows.</p>
+<p><strong>Stack:</strong> Angular · TypeScript · SCSS · Supabase</p>
+<p>
+<a href="https://join.juliakeller-dev.de/login">Live demo</a> ·
+<a href="https://github.com/JuliaKeller13/Join">Source code</a>
+</p>
 
-`Angular` `TypeScript`
-`SCSS`
+</td>
+<td width="50%" valign="top">
 
-<br>
-
-<a href="https://github.com/JuliaKeller13/portfolio">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository">
-</a>
+<h3><a href="https://github.com/JuliaKeller13/el-pollo-loco">El Pollo Loco</a> · JavaScript Game</h3>
+<p>Object-oriented browser game with character movement, collisions and interactive gameplay.</p>
+<p><strong>Stack:</strong> JavaScript · HTML · CSS · Object-Oriented Programming</p>
+<p>
+<a href="https://elpolloloco.juliakeller-dev.de/">Live demo</a> ·
+<a href="https://github.com/JuliaKeller13/el-pollo-loco">Source code</a>
+</p>
 
 </td>
 </tr>
 </table>
 
-<br>
+## Tech Stack
 
----
+<div align="center">
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Backend & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Tools & Practices**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-23566A?style=flat-square)
+![Automated Testing](https://img.shields.io/badge/Automated%20Testing-333B46?style=flat-square)
+
+</div>
 
 ## More Projects
 
-<table>
-<tr>
-<td>
-
-**El Pollo Loco**
-
-Object-oriented browser game built with JavaScript.
-
-`JavaScript` `HTML` `CSS`
-
-<a href="https://github.com/JuliaKeller13/el-pollo-loco">Repository →</a>
-
-</td>
-
-<td>
-
-**Pokédex**
-
-Frontend application for exploring Pokémon data.
-
-`JavaScript` `HTML` `CSS`
-
-<a href="https://github.com/JuliaKeller13/pokedex">Repository →</a>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**Notes App Backend**
-
-REST backend for a notes application.
-
-`Python` `Django` `REST API`
-
-<a href="https://github.com/JuliaKeller13/notes_app_backend">Repository →</a>
-
-</td>
-
-<td>
-
-**More Projects**
-
-Explore my other projects and learning progress on GitHub.
-
-<br>
-
-<a href="https://github.com/JuliaKeller13?tab=repositories">All repositories →</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## Currently focusing on
-
-* Angular & TypeScript
-* Python & Django
-* REST APIs
-* Authentication
-* Databases
-* Clean Code
-* Software Architecture
-
-</td>
-
-<td width="50%" valign="top">
-
-## About me
-
-I'm continuously expanding my skills from frontend development towards full-stack application development.
-
-I especially enjoy building applications where **frontend, backend and database work together as one complete system**.
-
-</td>
-</tr>
-</table>
-
-<br>
+- [Kanmind Backend](https://github.com/JuliaKeller13/Kanmind_backend) — collaborative board and task-management REST API.
+- [Pokédex](https://github.com/JuliaKeller13/pokedex) — interactive PokéAPI explorer.
+- [Portfolio](https://github.com/JuliaKeller13/portfolio) — my personal Angular website.
+- [All repositories](https://github.com/JuliaKeller13?tab=repositories) — additional projects and learning work.
 
 ---
 
 <div align="center">
 
-### Let's build something great.
+**Explore my work:** [juliakeller-dev.de](https://juliakeller-dev.de/) · [GitHub](https://github.com/JuliaKeller13) · [Email](mailto:juliakeller.vk@gmail.com)
 
-<a href="https://github.com/JuliaKeller13">
-  <img src="https://img.shields.io/badge/Explore_my_projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub">
-</a>
-
-<br><br>
-
-<sub>Julia Keller · Full-Stack Development</sub>
+<sub>Selected backend projects were developed as part of the Developer Akademie curriculum. Where frontends were provided for these projects, attribution is included in the respective repositories.</sub>
 
 </div>
